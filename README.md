@@ -86,15 +86,44 @@ I also experiment with **IoT (Arduino)** using **PyFirmata**, create **3D models
 
 ---
 
-## 📊 GitHub Stats  
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b1l4l-sec&show_icons=true&theme=chartreuse-dark&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=b1l4l-sec&theme=chartreuse-dark&hide_border=true" height="150" />
+
+  <!-- GitHub Stats and Streak - side by side -->
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=b1l4l-sec&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" 
+          height="160" 
+          loading="lazy" 
+          alt="GitHub Stats"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://streak-stats.demolab.com?user=b1l4l-sec&theme=chartreuse-dark&hide_border=true" 
+          height="160" 
+          loading="lazy" 
+          alt="GitHub Streak"
+        />
+      </td>
+    </tr>
+  </table>
+
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1l4l-sec&layout=compact&theme=chartreuse-dark&hide_border=true" height="150" />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1l4l-sec&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" 
+    height="160" 
+    loading="lazy" 
+    alt="Top Languages"
+  />
+
 </div>
 
 ---
