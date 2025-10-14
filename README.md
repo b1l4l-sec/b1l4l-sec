@@ -87,7 +87,6 @@ I also experiment with **IoT (Arduino)** using **PyFirmata**, create **3D models
 ---
 
 <div align="center">
-
   <!-- GitHub Stats and Streak - side by side -->
   <table>
     <tr>
@@ -101,22 +100,19 @@ I also experiment with **IoT (Arduino)** using **PyFirmata**, create **3D models
       </td>
       <td>
         <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=b1l4l-sec&theme=chartreuse-dark&hide_border=true"
+          src="https://streak-stats.vercel.app/?user=b1l4l-sec&theme=chartreuse-dark&hide_border=true"
           height="160"
           loading="lazy"
           alt="GitHub Streak"
         />
       </td>
-
     </tr>
   </table>
-
 </div>
 
 <br/>
 
 <div align="center">
-
   <!-- Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1l4l-sec&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" 
@@ -124,7 +120,6 @@ I also experiment with **IoT (Arduino)** using **PyFirmata**, create **3D models
     loading="lazy" 
     alt="Top Languages"
   />
-
 </div>
 
 ---
