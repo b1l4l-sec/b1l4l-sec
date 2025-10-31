@@ -1,6 +1,6 @@
 <!-- Cyber/Dev Profile README -->
 
-# ⚡ Hey, I’m  Lbien (aka b1l4l)  
+# ⚡ Hey, I’m Bilal Lbien (aka b1l4l)  
 
 <div align="center">
   <!-- Welcome GIF -->
